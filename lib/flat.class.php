@@ -1,6 +1,6 @@
 <?
 
-namespace City;
+namespace Alex\City;
 class Flat {
     public $rooms;
     public $people;

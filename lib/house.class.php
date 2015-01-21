@@ -1,5 +1,5 @@
 <?php
-namespace City;
+namespace Alex\City;
 /**
  * Created by PhpStorm.
  * User: PC4-203
