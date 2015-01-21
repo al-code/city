@@ -1,6 +1,6 @@
 <?php
 
-namespace Alex\City;
+namespace City;
 class City
 {
     public $name_city;

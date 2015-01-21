@@ -1,5 +1,5 @@
 <?php
-namespace Alex\City;
+namespace City;
 
 class Street
 {
